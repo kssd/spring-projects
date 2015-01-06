@@ -1,3 +1,261 @@
 [submodule "projects/spring-boot"]
 	path = projects/spring-boot
 	url = git@github.com:spring-projects/spring-boot.git
+[submodule "projects/spring-data-gemfire"]
+	path = projects/spring-data-gemfire
+	url = git@github.com:spring-projects/spring-data-gemfire.git
+[submodule "projects/spring-batch-admin"]
+	path = projects/spring-batch-admin
+	url = git@github.com:spring-projects/spring-batch-admin.git
+[submodule "projects/spring-session"]
+	path = projects/spring-session
+	url = git@github.com:spring-projects/spring-session.git
+[submodule "projects/spring-xd"]
+	path = projects/spring-xd
+	url = git@github.com:spring-projects/spring-xd.git
+[submodule "projects/spring-ws"]
+	path = projects/spring-ws
+	url = git@github.com:spring-projects/spring-ws.git
+[submodule "projects/spring-integration-java-dsl"]
+	path = projects/spring-integration-java-dsl
+	url = git@github.com:spring-projects/spring-integration-java-dsl.git
+[submodule "projects/spring-data-mongodb"]
+	path = projects/spring-data-mongodb
+	url = git@github.com:spring-projects/spring-data-mongodb.git
+[submodule "projects/spring-integration-samples"]
+	path = projects/spring-integration-samples
+	url = git@github.com:spring-projects/spring-integration-samples.git
+[submodule "projects/spring-data-commons"]
+	path = projects/spring-data-commons
+	url = git@github.com:spring-projects/spring-data-commons.git
+[submodule "projects/spring-data-jpa"]
+	path = projects/spring-data-jpa
+	url = git@github.com:spring-projects/spring-data-jpa.git
+[submodule "projects/spring-amqp"]
+	path = projects/spring-amqp
+	url = git@github.com:spring-projects/spring-amqp.git
+[submodule "projects/spring-security"]
+	path = projects/spring-security
+	url = git@github.com:spring-projects/spring-security.git
+[submodule "projects/spring-integration"]
+	path = projects/spring-integration
+	url = git@github.com:spring-projects/spring-integration.git
+[submodule "projects/spring-xd-samples"]
+	path = projects/spring-xd-samples
+	url = git@github.com:spring-projects/spring-xd-samples.git
+[submodule "projects/spring-framework"]
+	path = projects/spring-framework
+	url = git@github.com:spring-projects/spring-framework.git
+[submodule "projects/spring-data-build"]
+	path = projects/spring-data-build
+	url = git@github.com:spring-projects/spring-data-build.git
+[submodule "projects/spring-data-examples"]
+	path = projects/spring-data-examples
+	url = git@github.com:spring-projects/spring-data-examples.git
+[submodule "projects/spring-batch"]
+	path = projects/spring-batch
+	url = git@github.com:spring-projects/spring-batch.git
+[submodule "projects/spring-security-saml"]
+	path = projects/spring-security-saml
+	url = git@github.com:spring-projects/spring-security-saml.git
+[submodule "projects/spring-xd-modules"]
+	path = projects/spring-xd-modules
+	url = git@github.com:spring-projects/spring-xd-modules.git
+[submodule "projects/spring-hadoop"]
+	path = projects/spring-hadoop
+	url = git@github.com:spring-projects/spring-hadoop.git
+[submodule "projects/spring-data-neo4j"]
+	path = projects/spring-data-neo4j
+	url = git@github.com:spring-projects/spring-data-neo4j.git
+[submodule "projects/spring-roo"]
+	path = projects/spring-roo
+	url = git@github.com:spring-projects/spring-roo.git
+[submodule "projects/spring-security-oauth"]
+	path = projects/spring-security-oauth
+	url = git@github.com:spring-projects/spring-security-oauth.git
+[submodule "projects/spring-amqp-samples"]
+	path = projects/spring-amqp-samples
+	url = git@github.com:spring-projects/spring-amqp-samples.git
+[submodule "projects/spring-integration-extensions"]
+	path = projects/spring-integration-extensions
+	url = git@github.com:spring-projects/spring-integration-extensions.git
+[submodule "projects/spring-integration-kafka"]
+	path = projects/spring-integration-kafka
+	url = git@github.com:spring-projects/spring-integration-kafka.git
+[submodule "projects/spring-shell"]
+	path = projects/spring-shell
+	url = git@github.com:spring-projects/spring-shell.git
+[submodule "projects/spring-integration-flow"]
+	path = projects/spring-integration-flow
+	url = git@github.com:spring-projects/spring-integration-flow.git
+[submodule "projects/spring-data-redis"]
+	path = projects/spring-data-redis
+	url = git@github.com:spring-projects/spring-data-redis.git
+[submodule "projects/spring-hateoas"]
+	path = projects/spring-hateoas
+	url = git@github.com:spring-projects/spring-hateoas.git
+[submodule "projects/spring-ldap"]
+	path = projects/spring-ldap
+	url = git@github.com:spring-projects/spring-ldap.git
+[submodule "projects/spring-data-solr"]
+	path = projects/spring-data-solr
+	url = git@github.com:spring-projects/spring-data-solr.git
+[submodule "projects/spring-data-couchbase"]
+	path = projects/spring-data-couchbase
+	url = git@github.com:spring-projects/spring-data-couchbase.git
+[submodule "projects/spring-data-cassandra"]
+	path = projects/spring-data-cassandra
+	url = git@github.com:spring-projects/spring-data-cassandra.git
+[submodule "projects/spring-data-jdbc-ext"]
+	path = projects/spring-data-jdbc-ext
+	url = git@github.com:spring-projects/spring-data-jdbc-ext.git
+[submodule "projects/spring-sync"]
+	path = projects/spring-sync
+	url = git@github.com:spring-projects/spring-sync.git
+[submodule "projects/spring-integration-splunk"]
+	path = projects/spring-integration-splunk
+	url = git@github.com:spring-projects/spring-integration-splunk.git
+[submodule "projects/spring-retry"]
+	path = projects/spring-retry
+	url = git@github.com:spring-projects/spring-retry.git
+[submodule "projects/spring-insight-plugins"]
+	path = projects/spring-insight-plugins
+	url = git@github.com:spring-projects/spring-insight-plugins.git
+[submodule "projects/spring-sync-samples"]
+	path = projects/spring-sync-samples
+	url = git@github.com:spring-projects/spring-sync-samples.git
+[submodule "projects/spring-data"]
+	path = projects/spring-data
+	url = git@github.com:spring-projects/spring-data.git
+[submodule "projects/spring-webflow"]
+	path = projects/spring-webflow
+	url = git@github.com:spring-projects/spring-webflow.git
+[submodule "projects/spring-batch-extensions"]
+	path = projects/spring-batch-extensions
+	url = git@github.com:spring-projects/spring-batch-extensions.git
+[submodule "projects/spring-loaded"]
+	path = projects/spring-loaded
+	url = git@github.com:spring-projects/spring-loaded.git
+[submodule "projects/spring-hadoop-samples"]
+	path = projects/spring-hadoop-samples
+	url = git@github.com:spring-projects/spring-hadoop-samples.git
+[submodule "projects/spring-scala"]
+	path = projects/spring-scala
+	url = git@github.com:spring-projects/spring-scala.git
+[submodule "projects/spring-roo-wrapping"]
+	path = projects/spring-roo-wrapping
+	url = git@github.com:spring-projects/spring-roo-wrapping.git
+[submodule "projects/spring-cloud"]
+	path = projects/spring-cloud
+	url = git@github.com:spring-projects/spring-cloud.git
+[submodule "projects/spring-data-rest"]
+	path = projects/spring-data-rest
+	url = git@github.com:spring-projects/spring-data-rest.git
+[submodule "projects/spring-social"]
+	path = projects/spring-social
+	url = git@github.com:spring-projects/spring-social.git
+[submodule "projects/spring-social-samples"]
+	path = projects/spring-social-samples
+	url = git@github.com:spring-projects/spring-social-samples.git
+[submodule "projects/spring-test-htmlunit"]
+	path = projects/spring-test-htmlunit
+	url = git@github.com:spring-projects/spring-test-htmlunit.git
+[submodule "projects/gradle-plugins"]
+	path = projects/gradle-plugins
+	url = git@github.com:spring-projects/gradle-plugins.git
+[submodule "projects/spring-security-kerberos"]
+	path = projects/spring-security-kerberos
+	url = git@github.com:spring-projects/spring-security-kerberos.git
+[submodule "projects/spring-webflow-samples"]
+	path = projects/spring-webflow-samples
+	url = git@github.com:spring-projects/spring-webflow-samples.git
+[submodule "projects/spring-integration-dsl-groovy"]
+	path = projects/spring-integration-dsl-groovy
+	url = git@github.com:spring-projects/spring-integration-dsl-groovy.git
+[submodule "projects/spring-guice"]
+	path = projects/spring-guice
+	url = git@github.com:spring-projects/spring-guice.git
+[submodule "projects/spring-build-gradle"]
+	path = projects/spring-build-gradle
+	url = git@github.com:spring-projects/spring-build-gradle.git
+[submodule "projects/spring-data-jpa-examples"]
+	path = projects/spring-data-jpa-examples
+	url = git@github.com:spring-projects/spring-data-jpa-examples.git
+[submodule "projects/spring-security-javaconfig"]
+	path = projects/spring-security-javaconfig
+	url = git@github.com:spring-projects/spring-security-javaconfig.git
+[submodule "projects/spring-data-book"]
+	path = projects/spring-data-book
+	url = git@github.com:spring-projects/spring-data-book.git
+[submodule "projects/spring-integration-templates"]
+	path = projects/spring-integration-templates
+	url = git@github.com:spring-projects/spring-integration-templates.git
+[submodule "projects/spring-integration-dsl-scala"]
+	path = projects/spring-integration-dsl-scala
+	url = git@github.com:spring-projects/spring-integration-dsl-scala.git
+[submodule "projects/rest-shell"]
+	path = projects/rest-shell
+	url = git@github.com:spring-projects/rest-shell.git
+[submodule "projects/spring-security-oauth-javaconfig"]
+	path = projects/spring-security-oauth-javaconfig
+	url = git@github.com:spring-projects/spring-security-oauth-javaconfig.git
+[submodule "projects/gradle-init-scripts"]
+	path = projects/gradle-init-scripts
+	url = git@github.com:spring-projects/gradle-init-scripts.git
+[submodule "projects/spring-data-grid"]
+	path = projects/spring-data-grid
+	url = git@github.com:spring-projects/spring-data-grid.git
+[submodule "projects/spring-data-solr-examples"]
+	path = projects/spring-data-solr-examples
+	url = git@github.com:spring-projects/spring-data-solr-examples.git
+[submodule "projects/redis-doc"]
+	path = projects/redis-doc
+	url = git@github.com:spring-projects/redis-doc.git
+[submodule "projects/impala"]
+	path = projects/impala
+	url = git@github.com:spring-projects/impala.git
+[submodule "projects/greenhouse"]
+	path = projects/greenhouse
+	url = git@github.com:spring-projects/greenhouse.git
+[submodule "projects/spring-roo-backend-services"]
+	path = projects/spring-roo-backend-services
+	url = git@github.com:spring-projects/spring-roo-backend-services.git
+[submodule "projects/cloudfoundry-sandbox"]
+	path = projects/cloudfoundry-sandbox
+	url = git@github.com:spring-projects/cloudfoundry-sandbox.git
+[submodule "projects/nio-sandbox"]
+	path = projects/nio-sandbox
+	url = git@github.com:spring-projects/nio-sandbox.git
+[submodule "projects/spring-data-document-examples"]
+	path = projects/spring-data-document-examples
+	url = git@github.com:spring-projects/spring-data-document-examples.git
+[submodule "projects/spring-data-couchdb"]
+	path = projects/spring-data-couchdb
+	url = git@github.com:spring-projects/spring-data-couchdb.git
+[submodule "projects/spring-data-graph"]
+	path = projects/spring-data-graph
+	url = git@github.com:spring-projects/spring-data-graph.git
+[submodule "projects/springone-springdata-groovy"]
+	path = projects/springone-springdata-groovy
+	url = git@github.com:spring-projects/springone-springdata-groovy.git
+[submodule "projects/spring-interop-samples"]
+	path = projects/spring-interop-samples
+	url = git@github.com:spring-projects/spring-interop-samples.git
+[submodule "projects/spring-integration-pattern-catalog"]
+	path = projects/spring-integration-pattern-catalog
+	url = git@github.com:spring-projects/spring-integration-pattern-catalog.git
+[submodule "projects/spring-data-services"]
+	path = projects/spring-data-services
+	url = git@github.com:spring-projects/spring-data-services.git
+[submodule "projects/spring-tenancy"]
+	path = projects/spring-tenancy
+	url = git@github.com:spring-projects/spring-tenancy.git
+[submodule "projects/spring-hadoop-admin"]
+	path = projects/spring-hadoop-admin
+	url = git@github.com:spring-projects/spring-hadoop-admin.git
+[submodule "projects/Spring-Integration-in-Action"]
+	path = projects/Spring-Integration-in-Action
+	url = git@github.com:spring-projects/Spring-Integration-in-Action.git
+[submodule "projects/spring-data-graph-examples"]
+	path = projects/spring-data-graph-examples
+	url = git@github.com:spring-projects/spring-data-graph-examples.git
