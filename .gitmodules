@@ -1,0 +1,3 @@
+[submodule "projects/spring-boot"]
+	path = projects/spring-boot
+	url = git@github.com:spring-projects/spring-boot.git
